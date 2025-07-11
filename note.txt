@@ -1,0 +1,12 @@
+!html, css, bootstrap, js 
+echo "# UI-COURSE" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sahithya-kengaigar/UI-COURSE.git
+git push -u origin main
+
+origingit remote add origin https://github.com/sahithya-kengaigar/UI-COURSE.git
+git branch -M main
+git push -u origin main
